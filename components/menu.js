@@ -44,7 +44,7 @@ export default function Menu(pageProps) {
                     <>
                         <Section title="Tapas" sectionItems={menu} tabName="tapas"/>
                         <Section title="Sandwiches" sectionItems={menu} tabName="sandwiches"/>
-                        <Section title="Light Fare" sectionItems={menu} tabName="soupandsalad"/>
+                        <Section title="Light Fare" sectionItems={menu} tabName="lightfare"/>
 			            <Section title="Entrees" sectionItems={menu} tabName="entrees"/>
                     </>
                 )
